@@ -65,7 +65,7 @@ class BMRCalculator extends Component {
 					<br />
 					<h2 class='text-center'>Health Adviser</h2>
 					<div class='form-group'>
-						<label htmlFor='weight'>Food Energy Units </label>
+						<label htmlFor='weight'>Food Calorie Units </label>
 						<input
 							class='form-control'
 							type='number'
